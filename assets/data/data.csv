@@ -1,0 +1,52 @@
+id,state,abbr,poverty,obesity
+1,Alabama,AL,19.3,33.5
+2,Alaska,AK,11.2,29.7
+4,Arizona,AZ,18.2,28.9
+5,Arkansas,AR,18.9,35.9
+6,California,CA,16.4,24.7
+8,Colorado,CO,12,21.3
+9,Connecticut,CT,10.8,26.3
+10,Delaware,DE,12.5,30.7
+11,Washington D.C.,DC,17.7,21.7
+12,Florida,FL,16.5,26.2
+13,Georgia,GA,18.3,30.5
+15,Hawaii,HI,11.4,22.1
+16,Idaho,ID,14.8,28.9
+17,Illinois,IL,14.4,29.3
+18,Indiana,IN,15.2,32.7
+19,Iowa,IA,12.2,30.9
+20,Kansas,KS,13.6,31.3
+21,Kentucky,KY,19.1,31.6
+22,Louisiana,LA,19.8,34.9
+23,Maine,ME,14.1,28.2
+24,Maryland,MD,10.1,29.6
+25,Massachusetts,MA,11.6,23.3
+26,Michigan,MI,16.2,30.7
+27,Minnesota,MN,11.5,27.6
+28,Mississippi,MS,21.5,35.5
+29,Missouri,MO,15.5,30.2
+30,Montana,MT,15.4,26.4
+31,Nebraska,NE,12.4,30.2
+32,Nevada,NV,15.2,27.7
+33,New Hampshire,NH,9.2,27.4
+34,New Jersey,NJ,11.1,26.9
+35,New Mexico,NM,21.3,28.4
+36,New York,NY,15.9,27
+37,North Carolina,NC,17.2,29.7
+38,North Dakota,ND,11.5,32.2
+39,Ohio,OH,15.8,32.6
+40,Oklahoma,OK,16.6,33
+41,Oregon,OR,16.6,27.9
+42,Pennsylvania,PA,13.6,30.2
+44,Rhode Island,RI,14.3,27
+45,South Carolina,SC,18,32.1
+46,South Dakota,SD,14.2,29.8
+47,Tennessee,TN,18.3,31.2
+48,Texas,TX,17.2,31.9
+49,Utah,UT,11.7,25.7
+50,Vermont,VT,12.2,24.8
+51,Virginia,VA,11.8,28.5
+53,Washington,WA,13.2,27.3
+54,West Virginia,WV,18.3,35.7
+55,Wisconsin,WI,13.2,31.2
+56,Wyoming,WY,11.2,29.5
